@@ -19,5 +19,5 @@ Plant UML Script:
 
 
 4. Highlighter With Factory Method.
-5. Plant UML Script:
+Plant UML Script:
 6. ![Highlighter](https://github.com/alpersahin38/ce204-hw3-alper-sahin/assets/93208734/88dbd0df-1d05-4d89-adb7-e721b8f49599)
